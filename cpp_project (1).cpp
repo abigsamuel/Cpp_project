@@ -23,7 +23,6 @@ total[i]= total[i] + mark[i][j];
 }
 average[i]=total[i]/3.0 ;
 }
-return 0;
 cout<<"\n student mark sheet \n\n";
 cout<<left<<setw(12)<<"name"
 <<setw(6)<<"m1"
